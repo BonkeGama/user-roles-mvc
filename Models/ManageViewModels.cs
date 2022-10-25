@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace Rolezz.Models
+namespace Roles.Models
 {
     public class IndexViewModel
     {
