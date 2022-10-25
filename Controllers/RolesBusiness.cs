@@ -7,12 +7,12 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 
-using GqihhaLamlaji.Models;
-using GqihhaLamlaji.Infrastructure;
-using GqihhaLamlaji.Model;
-using GqihhaLamlaji.Model.ViewModels;
+using Roles.Models;
+using Roles.Infrastructure;
+using Roles.Model;
+using Roles.Model.ViewModels;
 
-namespace CleanApp2018.BusinessLogic
+namespace Roles.BusinessLogic
 {
     public class RolesBusiness
     {
