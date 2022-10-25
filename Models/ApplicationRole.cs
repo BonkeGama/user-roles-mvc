@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace GqihhaLamlaji.Models
+namespace Roles.Models
 {
     public class ApplicationRole : IdentityRole
     {
