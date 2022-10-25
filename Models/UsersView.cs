@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GqihhaLamlaji.Model.ViewModels
+namespace Roles.Model.ViewModels
 {
     public class UsersView
     {
