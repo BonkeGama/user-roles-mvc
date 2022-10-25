@@ -1,15 +1,15 @@
-﻿using CleanApp2018.BusinessLogic;
-using GqihhaLamlaji.Models;
-using GqihhaLamlaji.Infrastructure;
-using GqihhaLamlaji.Model.ViewModels;
+﻿using Roles.BusinessLogic;
+using Roles.Models;
+using Roles.Infrastructure;
+using Roles.Model.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using GqihhaLamlaji.Model;
+using Roles.Model;
 
-namespace FinalStockvelAppCleanApp2018.Controllers
+namespace Roles.Controllers
 {
     public class RolesController : Controller
     {
